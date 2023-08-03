@@ -1,5 +1,7 @@
 ### 4년차 개발자 혜원입니다 👋
 #### 저는 개발에서 운영까지의 아키텍처와 흐름에 관심이 많고 DevOps 문화에서 일하는 것을 지향합니다.
+#### 저는 실무에서 주로 Java, Javascript, Oracle, Linux 환경의 Web & App 개발했고
+#### Python, Go Lang, AWS, Kubernetes, Docker, Jenkins, Github Action, Argo CD 등은 개인 및 교육 프로젝트에서의 경험이 있습니다.
 
 <picture>
   <source
