@@ -1,3 +1,5 @@
+### 4년차 개발자 혜원입니다 👋
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -13,7 +15,6 @@
   />
 </picture>
 
-### Hi there 👋
 
 **hyewone/hyewone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
