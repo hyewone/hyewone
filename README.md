@@ -2,7 +2,7 @@
   
 <div align="center">
 
-<img src="https://www.turing.com/blog/wp-content/uploads/2022/08/6-Best-DevOps-Practices-to-Know-scaled.jpg" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*toYapRvF2zf6KVcKb1qOMg.png" />
 
   # 🛠 I used
 
