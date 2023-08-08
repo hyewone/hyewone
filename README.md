@@ -31,7 +31,7 @@
   
   # About Me
   
-  <a href="링크주소"><img src="https://img.shields.io/badge/Blog-4A154B?style=flat&logo=Blog&logoColor=white&link='https://www.notion.so/Hyewon-s-Recording-c69d3e61934b4ac0b115f19679c6c17b'"/></a>
+  <a href="https://www.notion.so/Hyewon-s-Recording-c69d3e61934b4ac0b115f19679c6c17b"><img src="https://img.shields.io/badge/Blog-4A154B?style=flat&logo=Blog&logoColor=white"/></a>
   <a href="링크주소"><img src="https://img.shields.io/badge/Notion-4A154B?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Hyewon-s-Recording-c69d3e61934b4ac0b115f19679c6c17b"/></a>
   
   <br/>
