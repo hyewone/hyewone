@@ -1,5 +1,9 @@
-<div align="center">
+
   
+<div align="center">
+
+<img src="https://www.turing.com/blog/wp-content/uploads/2022/08/6-Best-DevOps-Practices-to-Know-scaled.jpg" />
+
   # 🛠 I used
 
 
