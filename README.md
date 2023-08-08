@@ -2,8 +2,6 @@
   
 <div align="center">
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*toYapRvF2zf6KVcKb1qOMg.png" />
-
   # 🛠 I used
 
 
@@ -37,7 +35,7 @@
   
   <br/>
   <br/>
-  
+
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -53,4 +51,12 @@
     />
   </picture>
 
-<div align="center">
+  
+  <br/>
+  <br/>
+  
+
+  # I'm interested in
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*toYapRvF2zf6KVcKb1qOMg.png" />
+
+</div>
