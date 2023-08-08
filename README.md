@@ -26,7 +26,7 @@
 
   <br/>
   
-  # Follow Me
+  # Discover Who I Am
   <a href="https://www.notion.so/Hyewon-s-Recording-c69d3e61934b4ac0b115f19679c6c17b">  
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion"/>
   </a>
