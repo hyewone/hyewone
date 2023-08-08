@@ -2,6 +2,7 @@
   
   # 🛠 Tech Stack
 
+
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white" alt="JAVA"/></a>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black" alt="Javascript"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
@@ -11,9 +12,9 @@
   
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/></a>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GithubAction"/>
-  <img src="https://img.shields.io/badge/Argo_CD-234A91?style=for-the-badge&logo=ArgoCD&logoColor=white" alt="ArgoCD"/></a>
+  <img src="https://img.shields.io/badge/Argo_CD-FF5733?style=for-the-badge&logo=ArgoCD&logoColor=white" alt="ArgoCD"/></a>
   
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS"/></a>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=black" alt="AWS"/></a>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform"/>
 
 
