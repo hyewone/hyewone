@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🛠 Tech Stack
+  # 🛠 I used
 
 
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white" alt="JAVA"/></a>
@@ -16,6 +16,13 @@
   
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=black" alt="AWS"/></a>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform"/>
+
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" alt="Slack"/></a>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger"/></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/></a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/></a>
+
 
 
 
